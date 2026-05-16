@@ -1,5 +1,7 @@
 # homeos-plugin-dnf
 
+![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue)
+
 A [homeos](https://github.com/hainet50b/homeos) plugin for [DNF](https://github.com/rpm-software-management/dnf), the package manager used by Fedora, RHEL, and related distributions.
 
 ## Usage
